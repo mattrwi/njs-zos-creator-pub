@@ -14,7 +14,7 @@ const ObjectId = require("mongodb").ObjectId;
 
 // This section will help you get a list of all the records.
 recordRoutes.route("/record").get(function (req, res) {
-  let db_connect = dbo.getDb("employees");
+  let db_connect = dbo.getDb("njsapps");
   db_connect
     .collection("records")
     .find({})
@@ -40,9 +40,9 @@ recordRoutes.route("/record/:id").get(function (req, res) {
 recordRoutes.route("/record/add").post(function (req, response) {
   let db_connect = dbo.getDb();
   let myobj = {
-    name: req.body.name,
-    position: req.body.position,
-    level: req.body.level,
+    appid: req.body.appid,
+    appname: req.body.appname,
+    status: req.body.status,
   };
   db_connect.collection("records").insertOne(myobj, function (err, res) {
     if (err) throw err;

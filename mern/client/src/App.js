@@ -1,27 +1,1 @@
-import React from "react";
-
-// We use Route in order to define the different routes of our application
-import { Route, Routes } from "react-router-dom";
-
-// We import all the components we need in our app
-import Navbar from "./components/navbar";
-import RecordList from "./components/recordList";
-import Edit from "./components/edit";
-import Create from "./components/create";
-
-const App = () => {
-  return (
-    <div>
-      <Navbar />
-      <div style={{ margin: 20 }}>
-      <Routes>
-        <Route exact path="/" element={<RecordList />} />
-        <Route path="/edit/:id" element={<Edit />} />
-        <Route path="/create" element={<Create />} />
-      </Routes>
-      </div>
-    </div>
-  );
-};
-
-export default App;
+£@Ù£@@£^aa@æ@¤¢@Ù¤£@@@£@@£@£@¤£¢@@¤@££@À@Ù¤£k@Ù¤£¢@Ð@@£`¤£`^aa@æ@£@@£@£¢@¦@@@¤@£@Õ¥@@Ka£¢a¥^£@ÙÓ¢£@@Ka£¢aÓ¢£^£@Å£@@Ka£¢a£^£@Ã£@@Ka£¢a£^£@ã¢£@@Ka£¢a£¢£^¢£@Á@~@M]@~n@À@@£¤@M@@@@L¥n@@@@@@LÕ¥@an@@@@@@L¥@¢£¨~ÀÀ@z@òð@ÐÐn@@@@@@LÙ¤£¢n@@@@@@@@LÙ¤£@§£@£~a@£~ÀLÙÓ¢£@anÐ@an@@@@@@@@LÙ¤£@£~a£az@£~ÀLÅ£@anÐ@an@@@@@@@@LÙ¤£@£~a£@£~ÀLÃ£@anÐ@an@@@@@@@@LÙ¤£@£~a£¢£@£~ÀLã¢£@anÐ@an@@@@@@LaÙ¤£¢n@@@@@@La¥n@@@@La¥n@@]^Ð^§£@¤£@Á^

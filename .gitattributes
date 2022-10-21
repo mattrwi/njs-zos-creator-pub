@@ -5,3 +5,4 @@
 
 *.json          zos-working-tree-encoding=iso8859-1
 *.js          zos-working-tree-encoding=iso8859-1
+*.md          zos-working-tree-encoding=iso8859-1

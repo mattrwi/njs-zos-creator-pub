@@ -3,7 +3,8 @@
 .gitignore          zos-working-tree-encoding=iso8859-1
 
 
+#
 *.json        zos-working-tree-encoding=iso8859-1
 *.js          zos-working-tree-encoding=iso8859-1
 *.md          zos-working-tree-encoding=iso8859-1
-*             zos-working-tree-encoding=iso8859-1
+*html         zos-working-tree-encoding=iso8859-1

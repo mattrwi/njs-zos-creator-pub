@@ -1,1 +1,162 @@
-£@Ù£k@À@¤¢â££@Ð@@£^£@À@¤¢Õ¥£@Ð@@£`¤£^§£@¤£@¤£@Ã£M]@À@@¢£@­k@¢£Æ½@~@¤¢â££MÀ@@@@z@k@@@@z@k@@@@¢££¤¢z@k@@Ð]^@@¢£@¥£@~@¤¢Õ¥£M]^@@@@¢£@­Ã£¢k@¢£Ã£¢½@~@¤¢â££M­@@@@@@@@ÀÓ£z@}}k@â£z@}}Ð@@@@½]^@@@@@¢£@ÆÃ@~@M§k@¥£]@~n@À@@@@@@@@£@£@~@­KKKÃ£¢½^@@@@@@@@£­§½­¥£K££K½@~@¥£K££K¥¤^@@@@@@@@¢£Ã£¢M£]^@@@@@Ð@@@@@¢£@Ã£@~@M]@~n@À@@@@@@@@£@¦Ã£@~@À@Ó£z@}}k@â£z@}}@Ð@@@@@@@@@@@@¢£Ã£¢M­KKKÃ£¢k@¦Ã£½]@@@@Ð@@aa@ã¢@£¢@¦@¤£@£@¢££@£¢K@@¤£@¤£ÆM¥¤]@À@@@@£¤@¢£ÆMM¥]@~n@À@@@@@@£¤@À@KKK¥k@KKK¥¤@Ð^@@@@Ð]^@@Ð@@¢£@â¤£ò@~@M]@~n@À@@@@K¥£Ä¤£M]^@@@@¢KMÃ£¢]@@Ð@@aa@ã¢@¤£@¦@@£@¢¤¢¢K@@¢¨@¤£@â¤£M]@À@@@@¢KMÃ£@£@¢¤££]@@@@@@@@K¥£Ä¤£M]^@@@@aa@æ@@¢£@¤¢£@¢@¢£@£@£@£@¤k@¦}@@@¦@@£@£@£¢K@@@@¢£@¦Á@~@À@KKK@Ð^@@@@¦£@£M££zaa¢£zõðððaak@À@@@@@@£z@×Öâãk@@@@@@¢z@À@@@@@@@@Ã££`ã¨z@£a¢k@@@@@@Ðk@@@@@@¨z@ÑâÖÕK¢£¨M¦Á]k@@@@Ð]@@@@K£M@~n@À@@@@@@¦¦K£M]^@@@@@@£¤^@@@@Ð]^@@@@¢£ÆMÀ@z@k@z@k@¢££¤¢z@@Ð]^@@@@¥£Ma]^@@@@@@Ð@@aa@ã¢@¦@¢£@¦@¢¨@£@@££@£¢@£@¤£@@£@¤¢K@â¤£~Àâ¤£òÐ@@aa@@£¤@M@@@@L¥n@@@@@@LónÃ£@¦@Á£Laón@@@@@@L@n@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@L@£Æ~nÁ@Lan@@@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~@@@@@@@@@@@@¥¤~ÀKÐ@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@z@K££K¥¤@Ð]Ð@@@@@@@@@@an@@@@@@@@La¥n@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@L@£Æ~£ÙänÇ£@¢£¨@¤Lan@@@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~£Ùä@@@@@@@@@@@@¥¤~ÀK£ÙäÐ@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@£Ùäz@K££K¥¤@Ð]Ð@@@@@@@@@@an@@@@@@@@La¥n@@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@ÀÃ£¢KMM¤£k@§]@~n@À@@@@@@@@@@@@@@@@£¤@M@@@@@@@@@@@@@@@@@@@@L¥@¨~À§Ðn@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}Ó£}@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}}@@@@@@@@@@@@@@@@@@@@@@@@@@@@¥¤~À¤£KÓ£Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ã~À¥£@~n@ÆÃM§k@¥£]Ð@@@@@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}â£}@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}}@@@@@@@@@@@@@@@@@@@@@@@@@@@@¥¤~À¤£Kâ£Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ã~À¥£@~n@ÆÃM§k@¥£]Ð@@@@@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@]@@@@@@@@@@@@Ð]Ð@@@@@@@@@@@@L¤££@Ã~ÀÃ£ÐnÁ@Ã£La¤££n@@@@@@@@@@@@@@@@@L¤££@Ã~Àâ¤£òÐnâ¤£La¤££n@@@@@@@@La¥n@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@L@£Æ~£â££Ö£¢nÉ£@Á¤££@â££LanLnLan@@@@@@@@@@L¥@¢¢Õ~`@``n@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@¢¢Õ~``¤£@@@@@@@@@@@@@@£¨~@@@@@@@@@@@@@@~£â££Ö£¢@@@@@@@@@@@@@@~£â££â£@@@@@@@@@@@@@@¥¤~â£@@@@@@@@@@@@@@~ÀK¥@~~~@â£Ð@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@¥z@K££K¥¤@Ð]Ð@@@@@@@@@@@@an@@@@@@@@@@@@L@£Æ~£â££â£@¢¢Õ~``nâ£Lan@@@@@@@@@@La¥n@@@@@@@@@@L¥@¢¢Õ~`@``n@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@¢¢Õ~``¤£@@@@@@@@@@@@@@£¨~@@@@@@@@@@@@@@~£â££Ö£¢@@@@@@@@@@@@@@~£â££â££@@@@@@@@@@@@@@¥¤~â££@@@@@@@@@@@@@@~ÀK¥@~~~@â££Ð@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@¥z@K££K¥¤@Ð]Ð@@@@@@@@@@@@an@@@@@@@@@@@@L@£Æ~£â££â££@¢¢Õ~``nâ££Lan@@@@@@@@@@La¥n@@@@@@@@@@L¥@¢¢Õ~`@``n@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@¢¢Õ~``¤£@@@@@@@@@@@@@@£¨~@@@@@@@@@@@@@@~£â££Ö£¢@@@@@@@@@@@@@@~£â££Õ@@@@@@@@@@@@@@¥¤~Õ@@@@@@@@@@@@@@~ÀK¥@~~~@ÕÐ@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@¥z@K££K¥¤@Ð]Ð@@@@@@@@@@@@an@@@@@@@@@@@@L@£Æ~£â££Õ@¢¢Õ~``nÕLan@@@@@@@@@@La¥n@@@@@@@@La¥n@@@@@@@@L¥@¢¢Õ~`¢££¤¢n@@@@@@@@@@L¤£@@@@@@@@@@@@£¨~¢¤£@@@@@@@@@@@@¥¤~Ä¨@£@@@@@@@@@@@@¢¢Õ~£@£`¨@@@@@@@@@@an@@@@@@@@La¥n@@@@@@Lan@@@@La¥n@@]^Ð
+import React, { useState } from "react";
+import { useNavigate } from "react-router";
+
+export default function Create() {
+  const [form, setForm] = useState({
+    appid: "",
+    appname: "",
+    status: "",
+  });
+  const navigate = useNavigate();
+
+    const [appComponents, setComponents] = useState([
+        {appLocation: '', npmScript: ''}
+    ]); 
+
+    const handleFormChange = (index, event) => {
+        let data = [...appComponents];
+        data[index][event.target.name] = event.target.value;
+        setComponents(data);
+     }
+
+     const addComponent = () => {
+        let newComponent = { appLocation: '', npmScript: '' }
+    
+        setComponents([...appComponents, newComponent])
+    }
+
+  // These methods will update the state properties.
+  function updateForm(value) {
+    return setForm((prev) => {
+      return { ...prev, ...value };
+    });
+  }
+
+  const onSubmit2 = (e) => {
+    e.preventDefault();
+    console.log(appComponents)
+  }
+
+  // This function will handle the submission.
+  async function onSubmit(e) {
+    console.log("Create application submitted")
+    
+    e.preventDefault();
+
+    // When a post request is sent to the create url, we'll add a new record to the database.
+    const newApp = { ...form };
+
+    await fetch("http://localhost:5000/record/add", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(newApp),
+    })
+    .catch(error => {
+      window.alert(error);
+      return;
+    });
+
+    setForm({ appid: "", appname: "", status: "" });
+    navigate("/");    
+  }
+
+  // This following section will display the form that takes the input from the user. onSubmit={onSubmit2}
+  //
+  return (
+    <div>
+      <h3>Create new Application</h3>
+      <form >
+        <div className="form-group">
+          <label htmlFor="appid">App name</label>
+          <input
+            type="text"
+            className="form-control"
+            id="appname"
+            value={form.appname}
+            onChange={(e) => updateForm({ appname: e.target.value })}
+          />
+        </div>
+        <div className="form-group">
+          <label htmlFor="gitRepoUrl">Git repository url</label>
+          <input
+            type="text"
+            className="form-control"
+            id="gitRepoUrl"
+            value={form.gitRepoUrl}
+            onChange={(e) => updateForm({ gitRepoUrl: e.target.value })}
+          />
+        </div>     
+        <div className="form-group">
+            {appComponents.map((input, index) => {
+                return (
+                    <div key={index}>
+                        <input
+                            name='appLocation'
+                            placeholder=''
+                            value={input.appLocation}
+                            onChange={event => handleFormChange(index, event)}
+                        />
+                        <input
+                            name='npmScript'
+                            placeholder=''
+                            value={input.npmScript}
+                            onChange={event => handleFormChange(index, event)}
+                        />
+                    </div>
+                )
+            })}
+            <button onClick={addComponent}>Add Component</button>     
+            <button onClick={onSubmit2}>Submit</button>
+        </div>   
+        <div className="form-group">
+          <label htmlFor="initStatOptions">Initial Automation State</label><br></br>
+          <div className="form-check form-check-inline">
+            <input
+              className="form-check-input"
+              type="radio"
+              name="initStatOptions"
+              id="initStatStop"
+              value="Stop"
+              checked={form.level === "Stop"}
+              onChange={(e) => updateForm({ level: e.target.value })}
+            />
+            <label htmlFor="initStatStop" className="form-check-label">Stop</label>
+          </div>
+          <div className="form-check form-check-inline">            
+            <input
+              className="form-check-input"
+              type="radio"
+              name="initStatOptions"
+              id="initStatStart"
+              value="Start"
+              checked={form.level === "Start"}
+              onChange={(e) => updateForm({ level: e.target.value })}
+            />
+            <label htmlFor="initStatStart" className="form-check-label">Start</label>
+          </div>
+          <div className="form-check form-check-inline">
+            <input
+              className="form-check-input"
+              type="radio"
+              name="initStatOptions"
+              id="initStatNone"
+              value="None"
+              checked={form.level === "None"}
+              onChange={(e) => updateForm({ level: e.target.value })}
+            />
+            <label htmlFor="initStatNone" className="form-check-label">None</label>
+          </div>
+        </div>
+        <div className="form-status">
+          <input
+            type="submit"
+            value="Deploy application"
+            className="btn btn-primary"
+          />
+        </div>
+      </form>
+    </div>
+  );
+}

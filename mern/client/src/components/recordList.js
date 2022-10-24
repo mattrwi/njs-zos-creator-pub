@@ -1,1 +1,85 @@
-£@Ù£k@À@¤¢Å£k@¤¢â££@Ð@@£^£@À@Ó@Ð@@£`¤£`^¢£@Ù@~@M¢]@~n@M@@L£n@@@@L£nÀ¢KKÐLa£n@@@@L£nÀ¢KKÐLa£n@@@@L£nÀ¢KK¢££¤¢ÐLa£n@@@@L£n@@@@@@LÓ@¢¢Õ~£@£`@£~Àya£a[À¢KKmÐyÐnÅ£LaÓn@O@@@@@@L¤££@¢¢Õ~£@£`@@@@@@@@Ã~ÀM]@~n@À@@@@@@@@@@¢K£ÙM¢KKm]^@@@@@@@@ÐÐ@@@@@@n@@@@@@@@Ä£@@@@@@La¤££n@@@@La£n@@La£n]^§£@¤£@¤£@ÙÓ¢£M]@À@@¢£@­¢k@¢£Ù¢½@~@¤¢â££M­½]^@@aa@ã¢@£@£¢@£@¢@@£@£¢K@@¤¢Å£MM]@~n@À@@@@¢¨@¤£@£Ù¢M]@À@@@@@@¢£@¢¢@~@¦£@£My££zaa£¢ñ¢£zøðððaay]^@@@@@@@MZ¢¢K]@À@@@@@@@@¢£@¢¢@~@yÁ@@¤z@[À¢¢K¢££¤¢ã§£Ðy^@@@@@@@@¦¦K£M¢¢]^@@@@@@@@£¤^@@@@@@Ð@@@@@@¢£@¢@~@¦£@¢¢K¢M]^@@@@@@¢£Ù¢M¢]^@@@@Ð@@@@£Ù¢M]^@@@@£¤^@@@Ðk@­¢K£½]^@@aa@ã¢@£@¦@£@@@@¢¨@¤£@£ÙM]@À@@@@¦£@£My££zaa£¢ñ¢£zøððða[ÀÐyk@À@@@@@@£z@ÄÅÓÅãÅ@@@@Ð]^@@@@¢£@¦Ù¢@~@¢K£MM]@~n@Km@Z~~@]^@@@@¢£Ù¢M¦Ù¢]^@@Ð@@aa@ã¢@£@¦@@¤£@£@¢@@£@£@@¤£@Ó¢£M]@À@@@@£¤@¢KMM]@~n@À@@@@@@£¤@M@@@@@@@@LÙ@@@@@@@@@@~ÀÐ@@@@@@@@@@£Ù~ÀM]@~n@£ÙMKm]Ð@@@@@@@@@@¨~ÀKmÐ@@@@@@@@an@@@@@@]^@@@@Ð]^@@Ð@@aa@ã¢@¦@¢£@¦@¢¨@£@£@¦£@£@¢@@¥¤¢K@@£¤@M@@@@L¥n@@@@@@LónÙ@Ó¢£Laón@@@@@@L£@¢¢Õ~£@£`¢£@¢£¨~ÀÀ@ãz@òð@ÐÐn@@@@@@@@L£n@@@@@@@@@@L£n@@@@@@@@@@@@L£nÁ@ÉÄLa£n@@@@@@@@@@@@L£nÁ@ÕLa£n@@@@@@@@@@@@L£nâ££¤¢La£n@@@@@@@@@@@@L£nÁ£La£n@@@@@@@@@@La£n@@@@@@@@La£n@@@@@@@@L£¨nÀÓ¢£M]ÐLa£¨n@@@@@@La£n@@@@La¥n@@]^Ð
+import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
+
+const Record = (props) => (
+  <tr>
+    <td>{props.record.appid}</td>
+    <td>{props.record.appname}</td>
+    <td>{props.record.status}</td>
+    <td>
+      <Link className="btn btn-link" to={`/edit/${props.record._id}`}>Edit</Link> |
+      <button className="btn btn-link"
+        onClick={() => {
+          props.deleteRecord(props.record._id);
+        }}
+      >
+        Delete
+      </button>
+    </td>
+  </tr>
+);
+
+export default function RecordList() {
+  const [records, setRecords] = useState([]);
+
+  // This method fetches the records from the database.
+  useEffect(() => {
+    async function getRecords() {
+      const response = await fetch(`http://its1host:8000/record/`);
+
+      if (!response.ok) {
+        const message = `An error occured: ${response.statusText}`;
+        window.alert(message);
+        return;
+      }
+
+      const records = await response.json();
+      setRecords(records);
+    }
+
+    getRecords();
+
+    return; 
+  }, [records.length]);
+
+  // This method will delete a record
+  async function deleteRecord(id) {
+    await fetch(`http://its1host:8000/${id}`, {
+      method: "DELETE"
+    });
+
+    const newRecords = records.filter((el) => el._id !== id);
+    setRecords(newRecords);
+  }
+
+  // This method will map out the records on the table
+  function recordList() {
+    return records.map((record) => {
+      return (
+        <Record
+          record={record}
+          deleteRecord={() => deleteRecord(record._id)}
+          key={record._id}
+        />
+      );
+    });
+  }
+
+  // This following section will display the table with the records of individuals.
+  return (
+    <div>
+      <h3>Record List</h3>
+      <table className="table table-striped" style={{ marginTop: 20 }}>
+        <thead>
+          <tr>
+            <th>App ID</th>
+            <th>App Name</th>
+            <th>Status</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>{recordList()}</tbody>
+      </table>
+    </div>
+  );
+}

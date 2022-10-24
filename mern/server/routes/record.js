@@ -1,1 +1,100 @@
-¢£@§¢¢@~@¤M§¢¢]^aa@Ù¤£¢@¢@@¢£@@£@§¢¢@¤£Kaa@æ@¤¢@£@£@@¤@¤£¢Kaa@ã@¤£@¦@@@¢@@¦@@¦@£@£@@¤¢£¢@¢££@¦£@£@aK¢£@Ù¤£¢@~@§¢¢KÙ¤£M]^aa@ã¢@¦@@¤¢@£@£@£@£¢¢£@@~@¤MKKaa]^aa@ã¢@@¥£@£@@@¢£@£@Ö£É@@£@mK¢£@Ö£É@~@¤M]KÖ£É^aa@ã¢@¢£@¦@@¨¤@£@@¢£@@@£@¢KÙ¤£¢K¤£Ma]K£M¤£@Mk@¢]@À@@£@m£@~@K£ÄM¢©¢]^@@m£@@@@K£M¢]@@@@KMÀÐ]@@@@K£Á¨M¤£@Mk@¢¤£]@À@@@@@@@M]@£¦@^@@@@@@¢K¢M¢¤£]^@@@@Ð]^Ð]^aa@ã¢@¢£@¦@@¨¤@£@@¢£@@@£@¢KÙ¤£¢K¤£Maa£¢]K£M¤£@Mk@¢]@À@@@@¢KM¥@a£¢]@@@@£@m£@~@K£ÄM¢©¢]^@@@@m£@@@@@@K£M¢`¢]@@@@@@KMÀÐ]@@@@@@K£Á¨M¤£@Mk@¢¤£]@À@@@@@@@@@M]@£¦@^@@@@@@@@¢K¢M¢¤£]^@@@@@@Ð]^@@Ð]^aa@ã¢@¢£@¦@@¨¤@£@@¢@@¨@Ù¤£¢K¤£Maaz]K£M¤£@Mk@¢]@À@@£@m£@~@K£ÄM]^@@£@¨¤¨@~@À@mz@Ö£ÉM@K¢K@]Ð^@@m£@@@@@@K£M¢]@@@@@@KÖM¨¤¨k@¤£@Mk@¢¤£]@À@@@@@@@@@M]@£¦@^@@@@@@@@¢K¢M¢¤£]^@@@@@@Ð]^Ð]^aa@ã¢@¢£@¦@@¨¤@£@@¦@KÙ¤£¢K¤£Maa]K¢£M¤£@Mk@¢¢]@À@@£@m£@~@K£ÄM]^@@@@£@¨@~@À@@@@@@@@z@K¨Kk@@@@£Ùäz@K¨K£Ùäk@@@@Ã£¢z@K¨KÃ£¢k@@@@aa£Á¤£â££z@K¨K£Á¤£â££k@@Ð^@@¢KMK¨]@@m£K£M¢`¢]K¢£ÖM¨k@¤£@Mk@¢]@À@@@@@M]@£¦@^@@@@¢¢K¢M¢]^@@Ð]^Ð]^aa@ã¢@¢£@¦@@¨¤@¤£@@@¨@KÙ¤£¢K¤£Ma¤£az]K¢£M¤£@Mk@¢¢]@À@@£@m£@~@K£ÄM]^@@£@¨¤¨@~@À@mz@Ö£ÉM@K¢K@]Ð^@@£@¦¥¤¢@~@À@@@@[¢£z@À@@@@@@z@K¨Kk@@@@@@¢£z@K¨K¢£k@@@@@@¥z@K¨K¥k@@@@Ðk@@Ð^@@m£@@@@K£M¢]@@@@K¤£ÖM¨¤¨k@¦¥¤¢k@¤£@Mk@¢]@À@@@@@@@M]@£¦@^@@@@@@¢KMñ@¤£@¤£]^@@@@@@¢¢K¢M¢]^@@@@Ð]^Ð]^aa@ã¢@¢£@¦@@¨¤@£@@Ù¤£¢K¤£Maz]K£MMk@¢¢]@~n@À@@£@m£@~@K£ÄM]^@@£@¨¤¨@~@À@mz@Ö£ÉM@K¢K@]Ð^@@m£K£M¢]K£ÖM¨¤¨k@¤£@Mk@]@À@@@@@M]@£¦@^@@@@¢KMñ@¤£@£]^@@@@¢¢K¢M]^@@Ð]^Ð]^¤K§£¢@~@Ù¤£¢^
+const express = require("express");
+
+// recordRoutes is an instance of the express router.
+// We use it to define our routes.
+// The router will be added as a middleware and will take control of requests starting with path /record.
+const recordRoutes = express.Router();
+
+// This will help us connect to the database
+const dbo = require("../db/conn");
+
+// This help convert the id from string to ObjectId for the _id.
+const ObjectId = require("mongodb").ObjectId;
+
+
+// This section will help you get a list of all the records.
+recordRoutes.route("/record").get(function (req, res) {
+  let db_connect = dbo.getDb("njszos");
+  db_connect
+    .collection("records")
+    .find({})
+    .toArray(function (err, result) {
+      if (err) throw err;
+      res.json(result);
+    });
+});
+
+// This section will help you get a list of all the records.
+recordRoutes.route("/record/components").get(function (req, res) {
+    console.log("invoked record/components")
+    let db_connect = dbo.getDb("njszos");
+    db_connect
+      .collection("njs-apps")
+      .find({})
+      .toArray(function (err, result) {
+        if (err) throw err;
+        res.json(result);
+      });
+  });
+
+// This section will help you get a single record by id
+recordRoutes.route("/record/:id").get(function (req, res) {
+  let db_connect = dbo.getDb();
+  let myquery = { _id: ObjectId( req.params.id )};
+  db_connect
+      .collection("records")
+      .findOne(myquery, function (err, result) {
+        if (err) throw err;
+        res.json(result);
+      });
+});
+
+// This section will help you create a new record.
+recordRoutes.route("/record/add").post(function (req, response) {
+  let db_connect = dbo.getDb();
+  
+  let myobj = {    
+    appname: req.body.appname,
+    gitRepoUrl: req.body.gitRepoUrl,
+    appComponents: req.body.appComponents,
+    //initAutoStat: req.body.initAutoStat,
+  };
+  console.log(req.body)
+  db_connect.collection("njs-apps").insertOne(myobj, function (err, res) {
+    if (err) throw err;
+    response.json(res);
+  });
+});
+
+// This section will help you update a record by id.
+recordRoutes.route("/update/:id").post(function (req, response) {
+  let db_connect = dbo.getDb();
+  let myquery = { _id: ObjectId( req.params.id )};
+  let newvalues = {
+    $set: {
+      name: req.body.name,
+      position: req.body.position,
+      level: req.body.level,
+    },
+  };
+  db_connect
+    .collection("records")
+    .updateOne(myquery, newvalues, function (err, res) {
+      if (err) throw err;
+      console.log("1 document updated");
+      response.json(res);
+    });
+});
+
+// This section will help you delete a record
+recordRoutes.route("/:id").delete((req, response) => {
+  let db_connect = dbo.getDb();
+  let myquery = { _id: ObjectId( req.params.id )};
+  db_connect.collection("records").deleteOne(myquery, function (err, obj) {
+    if (err) throw err;
+    console.log("1 document deleted");
+    response.json(obj);
+  });
+});
+
+module.exports = recordRoutes;

@@ -1,1 +1,199 @@
-£@Ù£k@À@¤¢â££@Ð@@£^£@À@¤¢Õ¥£@Ð@@£`¤£^£@ÙÓ¢£@@KaÓ¢£^¥@£@~@¤^§£@¤£@¤£@ã¢£M]@À@@@@aaÙÓ¢£M]^@@@@M¢¨@M]@~n@À@@@@@@@@¢£@¢¢@~@¦£@£My££zaa£¢ñ¢£zøðððaa£¢y]^@@@@@@@@aa¢KM¢¢]@@@@@@@@@MZ¢¢K]@À@@@@@@@@@@¢£@¢¢@~@yÁ@@¤z@[À¢¢K¢££¤¢ã§£Ðy^@@@@@@@@@@¦¦K£M¢¢]^@@@@@@@@Ð@@@@@@@@@@@@@@@@¢£@¢@~@¦£@¢¢K¢M]^@@@@@@@@aa¢£@¢@~@¢¢KÑâÖÕ@@@@@@@@@@@@@@@@aa¢KM¢]@@@@@@@@@@@@@@@@¥@Ã¢@~@ÑâÖÕK¢MÑâÖÕK¢£¨M¢]]@@@@@@@@¢KMÃ¢]@@@@@@@@@M¥@@~@ð^@@L@Ã¢K£^@NN]@À@@@@@@@@@@@@aa¥@É@~@Ã¢KÃ£¢­½K£É^@@@@@@@@@@@@aa¢KMÃ¢­½]^@@@@@@@@@@@@@M¥@@~@ð^@@LÃ¢­½KÃ£¢K£^@NN]@À@@@@@@@@@@@@@@@@¢KMÃ¢­½KÃ£¢­½K£É]@@@@@@@@@@@@@@@@£@~@Ã¢­½KÃ£¢­½K£É@@@@@@@@@@@@Ð@@@@@@@@Ð@@@@Ð]M]^@@@@¢£@­k@¢£Æ½@~@¤¢â££MÀ@@@@@@@@z@k@@@@@@@@£Ùäz@k@@@@@@@@£Á¤£â££z@k@@@@@@Ð]^@@@@¢£@­Ã£¢k@¢£Ã£¢½@~@¤¢â££M­@@@@@@@@À£Éz@£k@Ó£z@}£¢£a£}k@â£z@}¢££`£¢£}Ð@@@@½]^@@@@@@@@@¢£@ÆÃ@~@M§k@¥£]@~n@À@@@@@@@@£@£@~@­KKKÃ£¢½^@@@@@@@@£­§½­¥£K££K½@~@¥£K££K¥¤^@@@@@@@@¢£Ã£¢M£]^@@@@@Ð@@@@@@@@@¢£@Ã£@~@M]@~n@À@@@@@@@@£@¦Ã£@~@À@£Éz@£k@Ó£z@}£¢£}k@â£z@}£¢£`¢£}@Ð@@@@@@@@@@@@¢£Ã£¢M­KKKÃ£¢k@¦Ã£½]@@@@Ð@@@@¢£@¥Ã£@~@M§]@~n@À@@@@@@@@£@£@~@­KKKÃ£¢½^@@@@@@@@£K¢M§k@ñ]@@@@@@@@¢£Ã£¢M£]@@@@Ð@@@@@@@@aa@ã¢@£¢@¦@¤£@£@¢££@£¢K@@@@¤£@¤£ÆM¥¤]@À@@@@£¤@¢£ÆMM¥]@~n@À@@@@@@£¤@À@KKK¥k@KKK¥¤@Ð^@@@@Ð]^@@@@Ð@@@@@@@@¢£@â¤£ò@~@M]@~n@À@@@@K¥£Ä¤£M]^@@@@¢KMÃ£¢]@@@@Ð@@aa@ã¢@¤£@¦@@£@¢¤¢¢K@@¢¨@¤£@â¤£M]@À@@@@¢KMÃ£@£@¢¤££]@@@@@@@@K¥£Ä¤£M]^@@@aa@¢KMÃ£¢]@@@@aa@æ@@¢£@¤¢£@¢@¢£@£@£@£@¤k@¦}@@@¦@@£@£@£¢K@@@@¢£@¦Á@~@À@KKKk@Ã£¢Ð^@@@@¢£@£¥@~@ÑâÖÕK¢£¨M¦Á]@@@aa@¢KM£¥]@@@@@@@@@¦£@£M££zaa£¢ñ¢£zøðððaak@À@@@@@@£z@×Öâãk@@@@@@¢z@À@@@@@@@@Ã££`ã¨z@£a¢k@@@@@@Ðk@@@@@@¨z@ÑâÖÕK¢£¨M¦Á]k@@@@Ð]@@@@K£M@~n@À@@@@@@¦¦K£M]^@@@@@@£¤^@@@@Ð]^@@@@aa¢£ÆMÀ@z@k@z@k@¢££¤¢z@@Ð]^@@@@aa¥£Ma]^@@@@@@Ð@@@@£¤@M@@@@@@@@L¥n@@@@@@@@@@@@LónÃ£@¦@Á£Laón@@@@@@@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@L@£Æ~nÁ@Lan@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@@@@@~@@@@@@@@@@@@@@@@¥¤~ÀKÐ@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@z@K££K¥¤@Ð]Ð@@@@@@@@@@@@an@@@@@@@@@@@@La¥n@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@L@£Æ~£ÙänÇ£@¢£¨@¤Lan@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@@@@@~£Ùä@@@@@@@@@@@@@@@@¥¤~ÀK£ÙäÐ@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@£Ùäz@K££K¥¤@Ð]Ð@@@@@@@@@@@@an@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@L@£Æ~Ã£¢nÁ@£¢Lan@@@@@@@@@@@@@@@@ÀÃ£¢KMM¤£k@§]@~n@À@@@@@@@@@@@@@@@@@@@@£¤@M@@@@@@@@@@@@@@@@@@@@@@@@L¥@¨~À§Ðn@@@@@@@@@@@@@@@@@@@@@@@@@@@@À£Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}Ó£}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}£¢£}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@¥¤~À¤£KÓ£Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@aa¥¤~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ã~À¥£@~n@ÆÃM§k@¥£]Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}â£}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~}£¢£`¢£}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@¥¤~À¤£Kâ£Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ã~À¥£@~n@ÆÃM§k@¥£]Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@@@@@@@@@L¤££@Ã~ÀM]@~n@¥Ã£M§]ÐnÙ¥La¤££n@@@@@@@@@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@@@@@]@@@@@@@@@@@@@@@@Ð]Ð@@@@@@@@@@@@@@@@L¤££@Ã~ÀÃ£ÐnÁ@Ã£La¤££n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@@@@@L@£Æ~£â££Ö£¢nÉ£@Á¤££@â££LanLnLan@@@@@@@@@@@@@@@@L¥@¢¢Õ~`@``n@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@¢¢Õ~``¤£@@@@@@@@@@@@@@@@@@@@£¨~@@@@@@@@@@@@@@@@@@@@~£â££Ö£¢@@@@@@@@@@@@@@@@@@@@~£â££â£@@@@@@@@@@@@@@@@@@@@¥¤~â£@@@@@@@@@@@@@@@@@@@@~ÀK£Á¤£â££@~~~@â£Ð@@@@@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@£Á¤£â££z@K££K¥¤@Ð]Ð@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@L@£Æ~£â££â£@¢¢Õ~``nâ£Lan@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@L¥@¢¢Õ~`@``n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@¢¢Õ~``¤£@@@@@@@@@@@@@@@@@@@@£¨~@@@@@@@@@@@@@@@@@@@@~£â££Ö£¢@@@@@@@@@@@@@@@@@@@@~£â££â££@@@@@@@@@@@@@@@@@@@@¥¤~â££@@@@@@@@@@@@@@@@@@@@~ÀK£Á¤£â££@~~~@â££Ð@@@@@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@£Á¤£â££z@K££K¥¤@Ð]Ð@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@L@£Æ~£â££â££@¢¢Õ~``nâ££Lan@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@L¥@¢¢Õ~`@``n@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@¢¢Õ~``¤£@@@@@@@@@@@@@@@@@@@@£¨~@@@@@@@@@@@@@@@@@@@@~£â££Ö£¢@@@@@@@@@@@@@@@@@@@@~£â££Õ@@@@@@@@@@@@@@@@@@@@¥¤~Õ@@@@@@@@@@@@@@@@@@@@~ÀK£Á¤£â££@~~~@ÕÐ@@@@@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@£Á¤£â££z@K££K¥¤@Ð]Ð@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@L@£Æ~£â££Õ@¢¢Õ~``nÕLan@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@L¤££@Ã~Àâ¤£Ðnâ¤£La¤££n@@@@@@@@La¥n@@@@]Ð
+import React, { useState } from "react";
+import { useNavigate } from "react-router";
+import RecordList from "./recordList";
+
+
+var temp = null;
+
+export default function Test() {
+
+    //RecordList();
+
+    (async () => {
+        const response = await fetch(`http://its1host:8000/record/components`);
+        //console.log(response)
+        if (!response.ok) {
+          const message = `An error occured: ${response.statusText}`;
+          window.alert(message);
+        }
+        
+        const records = await response.json();
+        //const records = response.JSON
+        
+        //console.log(records)
+        
+        var appComps = JSON.parse(JSON.stringify(records))
+        console.log(appComps)
+        for (var i = 0; i < appComps.length; i++) {
+            //var cId = appComps.appComponents[i].componentId;
+            //console.log(appComps[i]);
+            for (var j = 0; j <appComps[i].appComponents.length; j++) {
+                console.log(appComps[i].appComponents[j].componentId)
+                temp = appComps[i].appComponents[j].componentId
+            }
+        }
+
+    })();
+
+    const [form, setForm] = useState({
+        appname: "",
+        gitRepoUrl: "",
+        initAutoStat: "",
+      });
+
+    const [appComponents, setComponents] = useState([
+        {componentId: temp, appLocation: 'test/location', npmScript: 'start-test'}
+    ]); 
+    
+    const handleFormChange = (index, event) => {
+        let data = [...appComponents];
+        data[index][event.target.name] = event.target.value;
+        setComponents(data);
+     }
+    
+     const addComponent = () => {
+        let newComponent = { componentId: temp, appLocation: 'test', npmScript: 'test-script' }
+    
+        setComponents([...appComponents, newComponent])
+    }
+
+    const removeComponent = (index) => {
+        let data = [...appComponents];
+        data.splice(index, 1)
+        setComponents(data)
+    }
+    
+    // These methods will update the state properties.
+    function updateForm(value) {
+    return setForm((prev) => {
+      return { ...prev, ...value };
+    });
+    }
+    
+    const onSubmit2 = (e) => {
+    e.preventDefault();
+    console.log(appComponents)
+    }
+
+  // This function will handle the submission.
+  async function onSubmit(e) {
+    console.log("Create application submitted")
+    
+    e.preventDefault();
+
+   // console.log(appComponents)
+    // When a post request is sent to the create url, we'll add a new record to the database.
+    const newApp = { ...form, appComponents};
+    const tv = JSON.stringify(newApp)
+   // console.log(tv)
+     
+
+    await fetch("http://its1host:8000/record/add", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(newApp),
+    })
+    .catch(error => {
+      window.alert(error);
+      return;
+    });
+
+    //setForm({ appid: "", appname: "", status: "" });
+    //navigate("/");    
+  }
+
+
+    return (
+        <div>
+            <h3>Create new Application</h3>      
+            <div className="form-group">
+            <label htmlFor="appname">App name</label>
+            <input
+                type="text"
+                className="form-control"
+                id="appname"
+                value={form.appname}
+                onChange={(e) => updateForm({ appname: e.target.value })}
+            />
+            </div>
+            <div className="form-group">
+            <label htmlFor="gitRepoUrl">Git repository url</label>
+            <input
+                type="text"
+                className="form-control"
+                id="gitRepoUrl"
+                value={form.gitRepoUrl}
+                onChange={(e) => updateForm({ gitRepoUrl: e.target.value })}
+            />
+            </div>     
+            <div className="form-group">
+            <label htmlFor="appComponents">App components</label>
+                {appComponents.map((input, index) => {
+                    return (
+                        <div key={index}>
+                            {temp}
+                            
+                            <input
+                                name='appLocation'                                
+                                placeholder='test'
+                                value={input.appLocation}
+                                //value=
+                                onChange={event => handleFormChange(index, event)}
+                            />
+                            <input
+                                name='npmScript'
+                                placeholder='test-script'
+                                value={input.npmScript}
+                                onChange={event => handleFormChange(index, event)}
+                            />
+                            <button onClick={() => removeComponent(index)}>Remove</button>
+                        </div>
+                    )
+                })}
+                <button onClick={addComponent}>Add Component</button>                     
+            </div> 
+            <div className="form-group">
+                <label htmlFor="initStatOptions">Initial Automation State</label><br></br>
+                <div className="form-check form-check-inline">
+                    <input
+                    className="form-check-input"
+                    type="radio"
+                    name="initStatOptions"
+                    id="initStatStop"
+                    value="Stop"
+                    checked={form.initAutoStat === "Stop"}
+                    onChange={(e) => updateForm({ initAutoStat: e.target.value })}
+                    />
+                    <label htmlFor="initStatStop" className="form-check-label">Stop</label>
+                </div>
+                <div className="form-check form-check-inline">            
+                    <input
+                    className="form-check-input"
+                    type="radio"
+                    name="initStatOptions"
+                    id="initStatStart"
+                    value="Start"
+                    checked={form.initAutoStat === "Start"}
+                    onChange={(e) => updateForm({ initAutoStat: e.target.value })}
+                    />
+                    <label htmlFor="initStatStart" className="form-check-label">Start</label>
+                </div>
+                <div className="form-check form-check-inline">
+                    <input
+                    className="form-check-input"
+                    type="radio"
+                    name="initStatOptions"
+                    id="initStatNone"
+                    value="None"
+                    checked={form.initAutoStat === "None"}
+                    onChange={(e) => updateForm({ initAutoStat: e.target.value })}
+                    />
+                    <label htmlFor="initStatNone" className="form-check-label">None</label>
+                </div>
+                </div>
+            <button onClick={onSubmit}>Submit</button>
+        </div>
+    )
+}

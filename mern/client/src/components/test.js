@@ -7,7 +7,7 @@ var temp = null;
 
 export default function Test() {
 
-    //TEST TEST TEST
+    //TEST TEST TEST test test
 
     //RecordList();
 
@@ -18,12 +18,12 @@ export default function Test() {
           const message = `An error occured: ${response.statusText}`;
           window.alert(message);
         }
-        
+
         const records = await response.json();
         //const records = response.JSON
-        
+
         //console.log(records)
-        
+
         var appComps = JSON.parse(JSON.stringify(records))
         console.log(appComps)
         for (var i = 0; i < appComps.length; i++) {
@@ -45,17 +45,17 @@ export default function Test() {
 
     const [appComponents, setComponents] = useState([
         {componentId: temp, appLocation: 'test/location', npmScript: 'start-test'}
-    ]); 
-    
+    ]);
+
     const handleFormChange = (index, event) => {
         let data = [...appComponents];
         data[index][event.target.name] = event.target.value;
         setComponents(data);
      }
-    
+
      const addComponent = () => {
         let newComponent = { componentId: temp, appLocation: 'test', npmScript: 'test-script' }
-    
+
         setComponents([...appComponents, newComponent])
     }
 
@@ -64,14 +64,14 @@ export default function Test() {
         data.splice(index, 1)
         setComponents(data)
     }
-    
+
     // These methods will update the state properties.
     function updateForm(value) {
     return setForm((prev) => {
       return { ...prev, ...value };
     });
     }
-    
+
     const onSubmit2 = (e) => {
     e.preventDefault();
     console.log(appComponents)
@@ -80,7 +80,7 @@ export default function Test() {
   // This function will handle the submission.
   async function onSubmit(e) {
     console.log("Create application submitted")
-    
+
     e.preventDefault();
 
    // console.log(appComponents)
@@ -88,7 +88,7 @@ export default function Test() {
     const newApp = { ...form, appComponents};
     const tv = JSON.stringify(newApp)
    // console.log(tv)
-     
+
 
     await fetch("http://its1host:8000/record/add", {
       method: "POST",
@@ -103,13 +103,13 @@ export default function Test() {
     });
 
     //setForm({ appid: "", appname: "", status: "" });
-    //navigate("/");    
+    //navigate("/");
   }
 
 
     return (
         <div>
-            <h3>Create new Application</h3>      
+            <h3>Create new Application</h3>
             <div className="form-group">
             <label htmlFor="appname">App name</label>
             <input
@@ -129,16 +129,16 @@ export default function Test() {
                 value={form.gitRepoUrl}
                 onChange={(e) => updateForm({ gitRepoUrl: e.target.value })}
             />
-            </div>     
+            </div>
             <div className="form-group">
             <label htmlFor="appComponents">App components</label>
                 {appComponents.map((input, index) => {
                     return (
                         <div key={index}>
                             {temp}
-                            
+
                             <input
-                                name='appLocation'                                
+                                name='appLocation'
                                 placeholder='test'
                                 value={input.appLocation}
                                 //value=
@@ -154,8 +154,8 @@ export default function Test() {
                         </div>
                     )
                 })}
-                <button onClick={addComponent}>Add Component</button>                     
-            </div> 
+                <button onClick={addComponent}>Add Component</button>
+            </div>
             <div className="form-group">
                 <label htmlFor="initStatOptions">Initial Automation State</label><br></br>
                 <div className="form-check form-check-inline">
@@ -170,7 +170,7 @@ export default function Test() {
                     />
                     <label htmlFor="initStatStop" className="form-check-label">Stop</label>
                 </div>
-                <div className="form-check form-check-inline">            
+                <div className="form-check form-check-inline">
                     <input
                     className="form-check-input"
                     type="radio"

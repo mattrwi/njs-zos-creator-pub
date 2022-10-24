@@ -1,1 +1,30 @@
-{@`¢£`§Ô@â£@@@£@­Ô@ã¤£½M££¢zaa¦¦¦KKa¤¢a`¢£`£¤£]­Z­ÃÉ½M££¢zaa£¤Ka`¥a`¢£`§a£¢a¦¦¢aK¨aK¢¥]½M££¢zaa£¤Ka`¥a`¢£`§a£¢a¦¦¢aK¨]{{@È¦@ã@Ù¤Ã£@@Á£¢@äÙÉ@£@£@@ya¢¥aK¥y@¦£@¨¤@Á£¢@äÙÉzyyyÁãÓÁâmäÙÉ~N¢¥zaaL¤¢nzL¢¢¦n|¢§K¦KK£a¨Æ¢£Ä£¢o£¨æ£¢~£¤P¦~£¨×ÖÙã~õðððyyyâ££@¢¥zyyy@a¢¥@¢£@¢££yyyâ££@æ@¢¥yyy@a£@¢£@£N££¢zaa¤£ñK£¢K¦¢££K¤¢a£a`K£@M¢£@¢£@¢@K¢@£@@¢}£@¢@£@¢¤£@¤£££]@¢£@¢££yyy{{@Ä¢ä¢@£@¨¤@¦@¢^@£@@¢¤£@ÔÄÂ@¤£
+# mern-stack-example
+Mern Stack code for the [Mern Tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)
+
+[![CI](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml/badge.svg)](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml)
+
+## How To Run
+Create an Atlas URI connection parameter in `mern/server/config.env` with your Atlas URI:
+```
+ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+PORT=5000
+```
+
+Start server:
+```
+cd mern/server
+npm install
+npm start
+```
+
+Start Web server
+```
+cd mern/client
+install node-cachedir from https://mfutl1p.enterprise.wistate.us/git/node-cachedir.git
+npm install
+npm start
+```
+
+## Disclaimer
+
+Use at your own risk; not a supported MongoDB product

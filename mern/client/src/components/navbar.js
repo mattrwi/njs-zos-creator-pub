@@ -12,16 +12,7 @@ export default function Navbar() {
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <NavLink className="navbar-brand" to="/">          
-          HOME          
-        </NavLink>
-        <NavLink className="navbar-brand" to="/">          
-          MONGO-DB          
-        </NavLink>
-        <NavLink className="navbar-brand" to="/">          
-          ZREXX          
-        </NavLink>
-        <NavLink className="navbar-brand" to="/">          
-          RACF        
+          DET Node.js for z/OS Application Creator      
         </NavLink>
         <button
           className="navbar-toggler"
@@ -38,8 +29,8 @@ export default function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <NavLink className="nav-link" to="/create">
-                Create Record
+              <NavLink className="nav-link" to="/test">
+                Create app
               </NavLink>
             </li>
           </ul>

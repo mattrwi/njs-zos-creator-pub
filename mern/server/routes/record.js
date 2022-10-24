@@ -8,7 +8,7 @@ const recordRoutes = express.Router();
 // This will help us connect to the database
 const dbo = require("../db/conn");
 
-// This help convert the id from string to ObjectId for the _id.
+// This help convert the id from string to ObjectId for the _id. 
 const ObjectId = require("mongodb").ObjectId;
 
 
@@ -16,7 +16,7 @@ const ObjectId = require("mongodb").ObjectId;
 recordRoutes.route("/record").get(function (req, res) {
   let db_connect = dbo.getDb("njszos");
   db_connect
-    .collection("records")
+    .collection("njs-apps")
     .find({})
     .toArray(function (err, result) {
       if (err) throw err;
@@ -42,19 +42,20 @@ recordRoutes.route("/record/:id").get(function (req, res) {
   let db_connect = dbo.getDb();
   let myquery = { _id: ObjectId( req.params.id )};
   db_connect
-      .collection("records")
+      .collection("njs-apps")
       .findOne(myquery, function (err, result) {
         if (err) throw err;
         res.json(result);
       });
 });
 
-// This section will help you create a new record.
+// This section will help you create a new record
 recordRoutes.route("/record/add").post(function (req, response) {
   let db_connect = dbo.getDb();
   
   let myobj = {    
     appname: req.body.appname,
+    description: req.body.description,
     gitRepoUrl: req.body.gitRepoUrl,
     appComponents: req.body.appComponents,
     //initAutoStat: req.body.initAutoStat,
@@ -90,7 +91,7 @@ recordRoutes.route("/update/:id").post(function (req, response) {
 recordRoutes.route("/:id").delete((req, response) => {
   let db_connect = dbo.getDb();
   let myquery = { _id: ObjectId( req.params.id )};
-  db_connect.collection("records").deleteOne(myquery, function (err, obj) {
+  db_connect.collection("njs-apps").deleteOne(myquery, function (err, obj) {
     if (err) throw err;
     console.log("1 document deleted");
     response.json(obj);

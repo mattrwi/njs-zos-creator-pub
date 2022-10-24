@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 const Record = (props) => (
   <tr>
-    <td>{props.record.appid}</td>
     <td>{props.record.appname}</td>
-    <td>{props.record.status}</td>
+    <td>{props.record.description}</td>
+    <td>Deploying</td>      
     <td>
-      <Link className="btn btn-link" to={`/edit/${props.record._id}`}>Edit</Link> |
+      <Link className="btn btn-link" to={`/details/${props.record._id}`}>Detail</Link> |
       <button className="btn btn-link"
         onClick={() => {
           props.deleteRecord(props.record._id);
@@ -72,10 +72,10 @@ export default function RecordList() {
       <table className="table table-striped" style={{ marginTop: 20 }}>
         <thead>
           <tr>
-            <th>App ID</th>
             <th>App Name</th>
-            <th>Status</th>
-            <th>Action</th>
+            <th>Description</th>
+            <th>Satus</th>            
+            <th>  </th>
           </tr>
         </thead>
         <tbody>{recordList()}</tbody>

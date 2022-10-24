@@ -1,1 +1,254 @@
-£@Ù£k@À@¤¢â££k@¤¢Å£@Ð@@£^£@À@¤¢×¢k@¤¢Õ¥£@Ð@@£`¤£^¢£@Ã£@~@M¢]@~n@M@@@@L£n@@@@L£n@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~@@@@@@@@@@@@~À¢K£KÃ£Ð@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@La£n@@@@L£n@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~@@@@@@@@@@@@@@@@@@@@@@@@~À¢K£K×£Ð@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@La£n@@@@L£n@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~@@@@@@@@@@@@~À¢K£KÓ£Ð@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@La£n@@@@@@@@@@@@@@@@@@L£n@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~@@@@@@@@@@@@~À¢K£Kâ£Ð@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@La£n@@@@@@@@L£n@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~@@@@@@@@@@@@~Ä¨@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@La£n@@@@@@@@@@@@@@@@@@L£n@@@@@@@@L¤£@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@~@@@@@@@@@@@@~Ä¦@MÄ¨]@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@an@@@@La£n@@@@@@@@@@@@La£n@@]^§£@¤£@¤£@Ä£¢M]@À@@@@@@@@@@aa¥@@~@@@@@@@@@@@¢£@­k@¢£Æ½@~@¤¢â££MÀ@@@@@@@@z@k@@@@@@@@Ä¨â££¤¢z@k@@@@@@@@¢£z@k@@@@@@@@£Ùäz@k@@@@@@@@£Á¤£â££z@k@@@@@@Ð]^@@@@@@@@@@¢£@¢@~@¤¢×¢M]^@@@@¢£@¥£@~@¤¢Õ¥£M]^@@@@@@@@aa¢£@Õâ@~@¤¢â££MÀ¥¤Ð]@@@@¢£@­¢k@¢£Ù¢½@~@¤¢â££M­½]^@@@@¢£@­£¢k@¢£Ã£¢½@~@¤¢â££M­½]^@@@@a\¢£@­Ã£¢k@¢£Ã£¢½@~@¤¢â££M­@@@@@@@@ÀÃ£z@}£}k@Ó£z@}Å§¤£@£¨}k@â£z@}@¢£}Ð@@@@½]^\a@@@@a\¢£@ÆÃ@~@M§k@¥£]@~n@À@@@@@@@@£@£@~@­KKKÃ£¢½^@@@@@@@@£­§½­¥£K££K½@~@¥£K££K¥¤^@@@@@@@@¢£Ã£¢M£]^@@@@@Ð\a@@@@@a\¢£@Ã£@~@M]@~n@À@@@@@@@@£@¦Ã£@~@ÀÃ£z@}£}k@Ó£z@}Å§¤£@£¨}k@â£z@}@¢£}@Ð@@@@@@@@¢£Ã£¢M­KKKÃ£¢k@¦Ã£½]@@@@Ð\a@@@a\@¢£@¥Ã£@~@M§]@~n@À@@@@@@@@£@£@~@­KKKÃ£¢½^@@@@@@@@£K¢M§k@ñ]@@@@@@@@¢£Ã£¢M£]@@@@Ð\a@@@@@@@@@@@@¢£@â¤£@~@M]@~n@À@@@@@@@@K¥£Ä¤£M]^@@@@@@@@@@@@@@@@¥£Ma]^@@@@Ð@@@@@@@@aa@ã¢@£¢@¦@¤£@£@¢££@£¢K@@@@¤£@¤£ÆM¥¤]@À@@@@@@@@£¤@¢£ÆMM¥]@~n@À@@@@@@@@@@£¤@À@KKK¥k@KKK¥¤@Ð^@@@@@@@@Ð]^@@@@@@@@Ð@@@@¤¢Å£MM]@~n@À@@@@@@@@¢¨@¤£@£Ä£M]@À@@@@@@@@@@¢£@@~@¢KK£â£M]^@@@@@@@@@@¢£@¢¢@~@¦£@£My££zaa£¢ñ¢£zøðððaa[À¢KK£â£M]Ðy]^@@@@@@@@@@@@@@@MZ¢¢K]@À@@@@@@@@@@@@¢£@¢¢@~@yÁ@@¢@¤z@[À¢¢K¢££¤¢ã§£Ðy^@@@@@@@@@@@@¦¦K£M¢¢]^@@@@@@@@@@@@£¤^@@@@@@@@@@Ð@@@@@@@@@@@@@@¢£@@~@¦£@¢¢K¢M]^@@@@@@@@@@@MZ]@À@@@@@@@@@@@@¦¦K£MyÙ@¦£@@[ÀÐ@£@¤y]^@@@@@@@@@@@@¥£Ma]^@@@@@@@@@@@@£¤^@@@@@@@@@@Ð@@@@@@@@@@¢£Ù¢M]^@@@@@@@@@@¢£@£@~@KÃ£¢@@@@@@@@@@¢£Ã£¢M£]@@@@@@@@@@@@@@aa¢£ÆM]^@@@@@@@@@@¢KMK]@@@@@@@@@@aa@~@K@@@@@@@@@@aa£¢K¢££@~@ÀÕâz@KÐ^@@@@@@@@@@aa£¢K¢£â££MÀÕâz@KÐ]^@@@@@@@@@@aa¥@@~@K¢£@@@@@@@@@@aa¥@@~@K£Ùä@@@@@@@@@@@@@@@@Ð@@@@@@@@@@@@£Ä£M]^@@@@@@@@@@@@£¤^@@@@@@Ðk@­¢Kk@¥£½]^@@@@@@@@aa@ã¢@£@¦@@¤£@£@¢@@£@£@@@@a\¤£@£Ó¢£M]@À@@@@@@@@@@@@@@@@@M¥@@~@ñ^@@L@õ^@NN]À@@@@@@@@@@@@¥@§@~@ò^@@@@@@@@Ð@@@@@@@@¥@££¢@~@L£nL£n§ñLa£nL£n¢ñLa£nLa£n@@@@@@@@£¤@M@@@@@@@@@@@@@@@@@@@@@@@@L¥nÀ££¢ÐLa¥n@@@@@@@@@@@@@@@@]^@@@@Ð@\a@@@@@@@@@aa@ã¢@£@¦@@¤£@£@¢@@£@£@@@@¤£@£Ó¢£M]@À@@@@@@@@£¤@£¢KMM£]@~n@À@@@@@@@@£¤@M@@@@@@@@@@@@LÃ£@@@@@@@@@@@@£~À£Ð@@@@@@@@@@@@@@@@@@@@@@@@an@@@@@@@@]^@@@@@@@@Ð]^@@@@Ð@@@@£¤@M@@@@@@@@L¥n@@@@@@@@@@@@LónÁ£@Ä£¢Laón@@@@@@@@@@@@@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@@@@@L£n@@@@@@@@@@@@@@@@@@@@L£n@@@@@@@@@@@@@@@@@@@@@@@@L£nL@£Æ~nÁ@LanLa£nL@£Æ~nÁ@Ä¨£@â££¤¢LanL£nLa£n@@@@@@@@@@@@@@@@@@@@La£n@@@@@@@@@@@@@@@@@@@@L£n@@@@@@@@@@@@@@@@@@@@@@@@L£n@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@@@@@@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@@@@@@@@@@@@@@@@@~@@@@@@@@@@@@@@@@@@@@@@@@@@@@~À¢KÐ@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@¥¤~ÀKÐ@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@z@K££K¥¤@Ð]Ð@@@@@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@@@@@La£n@@@@@@@@@@@@@@@@@@@@@@@@L£n@@@@@@@@@@@@@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@@@@@@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@@@@@@@@@@@@@@@@@~Ä¨â££¤¢@@@@@@@@@@@@@@@@@@@@@@@@@@@@~Ä¨@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@¥¤~ÀKÄ¨â££¤¢Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@Ä¨â££¤¢z@K££K¥¤@Ð]Ð@@@@@@@@@@@@@@@@@@@@@@@@an@@@@@@@@@@@@@@@@@@@@@@@@La£n@@@@@@@@@@@@@@@@@@@@La£n@@@@@@@@@@@@@@@@La£n@@@@@@@@@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@L@£Æ~¢£nÄ¢£Lan@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@@@@@~¢£@@@@@@@@@@@@@@@@~À¢K¢£Ð@@@@@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@¥¤~ÀK¢£Ð@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@¢£z@K££K¥¤@Ð]Ð@@@@@@@@@@@@an@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@@@@@@@@@L¥@¢¢Õ~`¤n@@@@@@@@@@@@L@£Æ~£ÙänÇ£@¢£¨@¤Lan@@@@@@@@@@@@L¤£@@@@@@@@@@@@@@@@£¨~£§£@@@@@@@@@@@@@@@@¢¢Õ~`£@@@@@@@@@@@@@@@@~£Ùä@@@@@@@@@@@@@@@@~À¢K£ÙäÐ@@@@@@@@@@@@@@@@Ö¨~À£¤Ð@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@¥¤~ÀK£ÙäÐ@@@@@@@@@@@@@@@@Ã~ÀM]@~n@¤£ÆMÀ@£Ùäz@K££K¥¤@Ð]Ð@@@@@@@@@@@@an@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@L¥n@@@@@@@@@@@@@@@@L@£Æ~Ã£¢nÁ@Ã£¢Lan@@@@@@@@@@@@@@@@L£n@@@@@@@@@@@@@@@@@@@@L£nL£nÉÄLa£nL£n×£La£nL£nÅ§@ÄLa£nL£n@¢£La£nL£nÄ¨£@â££¤¢La£nL£nâ¨¢£@â££¤¢La£nLa£n@@@@@@@@@@@@@@@@@@@@À£Ó¢£M]Ð@@@@@@@@@@@@@@@@@@@@La£n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@La¥n@@@@@@@@@@@@@@@@@@@@@@@@L¤££@Ã~Àâ¤£ÐnÃ¢La¤££n@@@@@@@@@@@@@@@@La¥n@@@@]^Ð
+import React, { useState, useEffect } from "react";
+import { useParams, useNavigate } from "react-router";
+
+
+
+const Component = (props) => (
+    <tr>
+    <td>
+        <input
+            type="text"
+            className="form-control"
+            id="id"
+            placeholder={props.component.appComponent}
+            readOnly={true}                                
+        />
+    </td>
+    <td>
+        <input
+            type="text"
+            className="form-control"
+            id="id"            
+            placeholder={props.component.appPort}
+            readOnly={true}                                
+        />
+    </td>
+    <td>
+        <input
+            type="text"
+            className="form-control"
+            id="id"
+            placeholder={props.component.appLocation}
+            readOnly={true}                                
+        />
+    </td>              
+    <td>
+        <input
+            type="text"
+            className="form-control"
+            id="id"
+            placeholder={props.component.npmScript}
+            readOnly={true}                                
+        />
+    </td>    
+    <td>
+        <input
+            type="text"
+            className="form-control"
+            id="id"
+            placeholder="Deploying"
+            readOnly={true}                                
+        />
+    </td>              
+    <td>
+        <input
+            type="text"
+            className="form-control"
+            id="id"
+            placeholder="Down (Deploying)"
+            readOnly={true}                                
+        />
+    </td>        
+    </tr>
+  );
+
+
+export default function Details() {      
+    //var an = ""
+    
+      const [form, setForm] = useState({
+        appname: "",
+        appDeployStatus: "",
+        description: "",
+        gitRepoUrl: "",
+        initAutoStat: "",
+      });      
+
+    const params = useParams();
+    const navigate = useNavigate();
+    
+    //const appNameS = useState({value})
+
+    const [records, setRecords] = useState([]);
+    const [components, setComponents] = useState([]);
+
+    /*const [appComponents, setComponents] = useState([
+        {appComponent: 'temp', appLocation: 'Execution directory', npmScript: 'npm script'}
+    ]);*/
+
+    /*const handleFormChange = (index, event) => {
+        let data = [...appComponents];
+        data[index][event.target.name] = event.target.value;
+        setComponents(data);
+     }*/
+
+     /*const addComponent = () => {
+        let newComponent = {appComponent: 'temp', appLocation: 'Execution directory', npmScript: 'npm script' }
+
+        setComponents([...appComponents, newComponent])
+    }*/
+
+   /* const removeComponent = (index) => {
+        let data = [...appComponents];
+        data.splice(index, 1)
+        setComponents(data)
+    }*/
+        
+
+    const onSubmit = (e) => {
+        e.preventDefault();        
+        navigate("/");
+    }
+
+    
+    // These methods will update the state properties.
+    function updateForm(value) {
+        return setForm((prev) => {
+          return { ...prev, ...value };
+        });
+        }
+
+    useEffect(() => {
+        async function fetchData() {
+          const id = params.id.toString();
+          const response = await fetch(`http://its1host:8000/record/${params.id.toString()}`);
+    
+          if (!response.ok) {
+            const message = `An error has occured: ${response.statusText}`;
+            window.alert(message);
+            return;
+          }
+    
+          const record = await response.json();
+          if (!record) {
+            window.alert(`Record with id ${id} not found`);
+            navigate("/");
+            return;
+          }
+          setRecords(record);
+
+          const component = record.appComponents
+          setComponents(component)
+    
+          //setForm(record);
+          console.log(record.appname)
+          //an = record.appname
+          //this.state = {appNameS: record.appname};
+          //this.setState({appNameS: record.appname});
+          //var de = record.description
+          //var gr = record.gitRepoUrl        
+        }
+    
+        fetchData();
+    
+        return;
+      }, [params.id, navigate]);    
+
+
+    // This method will map out the records on the table
+    /*function componentList() {        
+        for (var i = 1; i < 5; i++){
+            var x = 2;
+        }
+        var contents = "<tr><td>exdir1</td><td>npms1</td></tr>"
+        return (            
+            <div>{contents}</div>        
+        );
+    } */     
+
+
+    // This method will map out the records on the table
+    function componentList() {
+        return components.map((component) => {
+        return (
+            <Component
+            component={component}            
+            />
+        );
+        });
+    }
+
+    return (
+        <div>
+            <h3>Application Details</h3>            
+            <div className="form-group">
+                <table>
+                    <tr>
+                        <td><label htmlFor="appname">App name</label></td><label htmlFor="appname">App Deployment Status</label><td></td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <input
+                            type="text"
+                            className="form-control"
+                            id="appname"
+                            placeholder={records.appname}
+                            readOnly={true}
+                            value={form.appname}
+                            onChange={(e) => updateForm({ appname: e.target.value })}
+                        />
+                        </td>
+                        <td>
+                        <input
+                            type="text"
+                            className="form-control"
+                            id="appDeployStatus"
+                            placeholder="Deploying"
+                            readOnly={true}
+                            value={form.appDeployStatus}
+                            onChange={(e) => updateForm({ appDeployStatus: e.target.value })}
+                        />
+                        </td>
+                    </tr>
+                </table>
+            
+
+
+            </div>
+            <div className="form-group">
+            <label htmlFor="description">Description</label>
+            <input
+                type="text"
+                className="form-control"
+                id="description"
+                placeholder={records.description}
+                readOnly={true}
+                value={form.discription}
+                onChange={(e) => updateForm({ description: e.target.value })}
+            />
+            </div>            
+            <div className="form-group">
+            <label htmlFor="gitRepoUrl">Git repository url</label>
+            <input
+                type="text"
+                className="form-control"
+                id="gitRepoUrl"
+                placeholder={records.gitRepoUrl}
+                readOnly={true}                
+                value={form.gitRepoUrl}
+                onChange={(e) => updateForm({ gitRepoUrl: e.target.value })}
+            />
+            </div>    
+            <div>
+                <label htmlFor="appComponents">App Components</label>
+                <table>
+                    <tr><td>ID</td><td>Port</td><td>Exec Dir</td><td>npm script</td><td>Deployment Status</td><td>System Status</td></tr>
+                    {componentList()}    
+                </table>                 
+            </div>            
+            <button onClick={onSubmit}>Close</button>
+        
+        </div>
+    );
+
+}

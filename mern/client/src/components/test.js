@@ -15,7 +15,7 @@ export default function Test() {
     //RecordList();
 
    /* (async () => {
-        const response = await fetch(`http://its1host:8000/record/components`);
+        const response = await fetch(`http://localhost:5000/record/components`);
         //console.log(response)
         if (!response.ok) {
             const message = `An error occured: ${response.statusText}`;
@@ -89,7 +89,7 @@ export default function Test() {
     
 
     // --   
-    const response = await fetch(`http://its1host:8000/record/components`);
+    const response = await fetch(`http://localhost:5000/record/components`);
     //console.log(response)
     if (!response.ok) {
         const message = `An error occured: ${response.statusText}`;
@@ -112,7 +112,9 @@ export default function Test() {
         }
     }  
 
-
+    if(temp == null) {
+        temp = "NJSDET00"
+    }
 
     console.log("Create application submitted")
     console.log("------------------------------------")    
@@ -167,7 +169,7 @@ export default function Test() {
    // console.log(tv)
 
 
-    const result = await fetch("http://its1host:8000/record/add", {
+    const result = await fetch("http://localhost:5000/record/add", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

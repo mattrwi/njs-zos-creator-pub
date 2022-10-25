@@ -24,6 +24,19 @@ const Component = (props) => (
         />
     </td>
     <td>
+        <a  
+            style={{border: "1px solid #cdd4d1", borderRadius: "3px", padding: "8px", backgroundColor: "#e8ecef"}}
+            href="https://wst3.state.wi.us/">https://wst3.state.wi.us/
+        </a>
+        
+    </td>
+    <td>
+        <a  
+            style={{border: "1px solid #cdd4d1", borderRadius: "3px", padding: "8px", backgroundColor: "#e8ecef"}}
+            href={"localhost:" + props.component.appPort}>{"localhost:" + props.component.appPort}
+        </a>
+    </td>    
+    <td>
         <input
             type="text"
             className="form-control"
@@ -46,6 +59,7 @@ const Component = (props) => (
             type="text"
             className="form-control"
             id="id"
+            style={{backgroundcolor: "#00000000"}}
             placeholder="Deploying"
             readOnly={true}                                
         />
@@ -121,7 +135,7 @@ export default function Details() {
     useEffect(() => {
         async function fetchData() {
           const id = params.id.toString();
-          const response = await fetch(`http://its1host:8000/record/${params.id.toString()}`);
+          const response = await fetch(`http://localhost:5000/record/${params.id.toString()}`);
     
           if (!response.ok) {
             const message = `An error has occured: ${response.statusText}`;
@@ -242,7 +256,7 @@ export default function Details() {
             <div>
                 <label htmlFor="appComponents">App Components</label>
                 <table>
-                    <tr><td>ID</td><td>Port</td><td>Exec Dir</td><td>npm script</td><td>Deployment Status</td><td>System Status</td></tr>
+                    <tr><td>ID</td><td>Port</td><td>Apache Url</td><td>Localhost Url</td><td>Exec Dir</td><td>npm script</td><td>Deployment Status</td><td>System Status</td></tr>
                     {componentList()}    
                 </table>                 
             </div>            

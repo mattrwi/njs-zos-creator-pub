@@ -135,7 +135,7 @@ export default function Details() {
     useEffect(() => {
         async function fetchData() {
           const id = params.id.toString();
-          const response = await fetch(`http://localhost:5000/record/${params.id.toString()}`);
+          const response = await fetch(`http://its1host:8000/record/${params.id.toString()}`);
     
           if (!response.ok) {
             const message = `An error has occured: ${response.statusText}`;

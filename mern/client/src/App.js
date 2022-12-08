@@ -10,6 +10,7 @@ import Edit from "./components/edit";
 import Create from "./components/create";
 import Test from "./components/test";
 import Details from "./components/details";
+import Auth from "./components/auth";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="/create" element={<Create />} />
         <Route path="/test" element={<Test />} />
         <Route path="/details/:id" element={<Details />} />
+        <Route path="/auth" element={<Auth />} />
       </Routes>
       </div>
     </div>
